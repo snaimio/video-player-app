@@ -51,8 +51,8 @@ MediaPlayerApp/
 ## 🚀 Setup & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/snaimio/VideoPlayerApp.git
-   cd VideoPlayerApp
+   git clone https://github.com/snaimio/video-player-app.git
+   cd video-player-app
    open MediaPlayerApp.xcodeproj
    ```
 2. Build and run via Xcode (`⌘ + R`).
